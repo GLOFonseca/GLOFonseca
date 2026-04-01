@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there.
 
-- 🔭 I’m currently working on [RD Station](https://github.com/ResultadosDigitais)
+I’m currently working on [TOTVS RD Station](https://github.com/ResultadosDigitais) using the specific user https://github.com/rd-guilherme-fonseca 
 
 <!--
 **GLOFonseca/GLOFonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
